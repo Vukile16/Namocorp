@@ -1,0 +1,73 @@
+﻿@model NamoWEBAPP.Models.Contact
+
+@{
+    ViewData["Title"] = "Create";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="container" style="margin-top:120px;">
+
+    <h4>Add Contact</h4>
+    <hr />
+    <div class="row">
+        <div class="col-md-12">
+            <form asp-action="Create">
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+                <div class="form-group">
+                    <label asp-for="FirstName" class="control-label"></label>
+                    <input asp-for="FirstName" class="form-control" />
+                    <span asp-validation-for="FirstName" class="text-danger"></span>
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="Surname" class="control-label"></label>
+                    <input asp-for="Surname" class="form-control" />
+                    <span asp-validation-for="Surname" class="text-danger"></span>
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="BirthDate" class="control-label"></label>
+                    <input asp-for="BirthDate" class="form-control" />
+                    <span asp-validation-for="BirthDate" class="text-danger"></span>
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="ContactDetail.Description" class="control-label"></label>
+                    <input asp-for="ContactDetail.Description" class="form-control" />
+                    <span asp-validation-for="ContactDetail.Description" class="text-danger"></span>
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="ContactType.Type" class="control-label"></label>
+                    <select asp-for="ContactType.ContactTypeId" class="form-control">
+                        <option value="0" disabled selected>Please select a contact type</option>
+                        @foreach (var type in (ViewBag.TypeList as List<NamoWEBAPP.Models.ContactType>))
+                        {
+                            <option value="@type.ContactTypeId">@type.Type</option>
+                        }
+                    </select>
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="ContactingType" class="control-label"></label>
+                    <input asp-for="ContactingType" class="form-control" />
+                    <span asp-validation-for="ContactingType" class="text-danger"></span>
+                </div>
+
+
+                <div class="form-group">
+                    <input type="submit" value="Create" class="btn btn-primary" />
+                </div>
+            </form>
+        </div>
+    </div>
+
+    <div>
+        <a asp-action="Index">Back to List</a>
+    </div>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

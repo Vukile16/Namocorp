@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Contacts.SplashScreenPage"
+             Shell.NavBarIsVisible="False"
+             BackgroundColor="#DBDBDB">
+    
+    <StackLayout HorizontalOptions="Center"
+                 VerticalOptions="Center">
+        <Image Source="playstoreicon.png"
+               x:Name="splashImage"
+               HeightRequest="150"
+               WidthRequest="150"/>
+
+    </StackLayout>
+</ContentPage>

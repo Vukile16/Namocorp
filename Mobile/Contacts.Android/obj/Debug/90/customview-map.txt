@@ -1,0 +1,44 @@
+@string/appbar_scrolling_view_behavior;C:\ACER 1 TB\Vukile's stuff\Assesment\Namocorp\Mobile\Contacts.Android\obj\Debug\90\lp\43\jl\res\layout\flyoutcontent.xml
+@string/appbar_scrolling_view_behavior;C:\ACER 1 TB\Vukile's stuff\Assesment\Namocorp\Mobile\Contacts.Android\obj\Debug\90\lp\43\jl\res\layout\rootlayout.xml
+adaptive-icon;obj\Debug\90\res\mipmap-anydpi-v26\ic_launcher.xml
+adaptive-icon;obj\Debug\90\res\mipmap-anydpi-v26\ic_launcher_round.xml
+alpha;C:\ACER 1 TB\Vukile's stuff\Assesment\Namocorp\Mobile\Contacts.Android\obj\Debug\90\lp\43\jl\res\anim\enterfromleft.xml
+alpha;C:\ACER 1 TB\Vukile's stuff\Assesment\Namocorp\Mobile\Contacts.Android\obj\Debug\90\lp\43\jl\res\anim\exittoleft.xml
+android.support.design.widget.AppBarLayout;C:\ACER 1 TB\Vukile's stuff\Assesment\Namocorp\Mobile\Contacts.Android\obj\Debug\90\lp\43\jl\res\layout\flyoutcontent.xml
+android.support.design.widget.AppBarLayout;C:\ACER 1 TB\Vukile's stuff\Assesment\Namocorp\Mobile\Contacts.Android\obj\Debug\90\lp\43\jl\res\layout\rootlayout.xml
+android.support.design.widget.AppBarLayout;C:\ACER 1 TB\Vukile's stuff\Assesment\Namocorp\Mobile\Contacts.Android\obj\Debug\90\lp\43\jl\res\layout\shellcontent.xml
+android.support.design.widget.BottomNavigationView;C:\ACER 1 TB\Vukile's stuff\Assesment\Namocorp\Mobile\Contacts.Android\obj\Debug\90\lp\43\jl\res\layout\bottomtablayout.xml
+android.support.design.widget.CoordinatorLayout;C:\ACER 1 TB\Vukile's stuff\Assesment\Namocorp\Mobile\Contacts.Android\obj\Debug\90\lp\43\jl\res\layout\flyoutcontent.xml
+android.support.design.widget.CoordinatorLayout;C:\ACER 1 TB\Vukile's stuff\Assesment\Namocorp\Mobile\Contacts.Android\obj\Debug\90\lp\43\jl\res\layout\rootlayout.xml
+android.support.design.widget.CoordinatorLayout;C:\ACER 1 TB\Vukile's stuff\Assesment\Namocorp\Mobile\Contacts.Android\obj\Debug\90\lp\43\jl\res\layout\shellcontent.xml
+android.support.design.widget.TabLayout;C:\ACER 1 TB\Vukile's stuff\Assesment\Namocorp\Mobile\Contacts.Android\obj\Debug\90\lp\43\jl\res\layout\rootlayout.xml
+android.support.design.widget.TabLayout;obj\Debug\90\res\layout\tabbar.xml
+android.support.v7.widget.RecyclerView;C:\ACER 1 TB\Vukile's stuff\Assesment\Namocorp\Mobile\Contacts.Android\obj\Debug\90\lp\43\jl\res\layout\flyoutcontent.xml
+android.support.v7.widget.Toolbar;C:\ACER 1 TB\Vukile's stuff\Assesment\Namocorp\Mobile\Contacts.Android\obj\Debug\90\lp\43\jl\res\layout\rootlayout.xml
+android.support.v7.widget.Toolbar;C:\ACER 1 TB\Vukile's stuff\Assesment\Namocorp\Mobile\Contacts.Android\obj\Debug\90\lp\43\jl\res\layout\shellcontent.xml
+android.support.v7.widget.Toolbar;obj\Debug\90\res\layout\toolbar.xml
+background;obj\Debug\90\res\mipmap-anydpi-v26\ic_launcher.xml
+background;obj\Debug\90\res\mipmap-anydpi-v26\ic_launcher_round.xml
+color;obj\Debug\90\res\values\colors.xml
+color;obj\Debug\90\res\values\ic_launcher_background.xml
+foreground;obj\Debug\90\res\mipmap-anydpi-v26\ic_launcher.xml
+foreground;obj\Debug\90\res\mipmap-anydpi-v26\ic_launcher_round.xml
+FrameLayout;C:\ACER 1 TB\Vukile's stuff\Assesment\Namocorp\Mobile\Contacts.Android\obj\Debug\90\lp\43\jl\res\layout\bottomtablayout.xml
+item;C:\ACER 1 TB\Vukile's stuff\Assesment\Namocorp\Mobile\Contacts.Android\obj\Debug\90\lp\43\jl\res\values\styles.xml
+item;obj\Debug\90\res\values\styles.xml
+LinearLayout;C:\ACER 1 TB\Vukile's stuff\Assesment\Namocorp\Mobile\Contacts.Android\obj\Debug\90\lp\43\jl\res\layout\bottomtablayout.xml
+resources;C:\ACER 1 TB\Vukile's stuff\Assesment\Namocorp\Mobile\Contacts.Android\obj\Debug\90\lp\43\jl\res\values\styles.xml
+resources;obj\Debug\90\res\values\colors.xml
+resources;obj\Debug\90\res\values\ic_launcher_background.xml
+resources;obj\Debug\90\res\values\styles.xml
+set;C:\ACER 1 TB\Vukile's stuff\Assesment\Namocorp\Mobile\Contacts.Android\obj\Debug\90\lp\43\jl\res\anim\enterfromleft.xml
+set;C:\ACER 1 TB\Vukile's stuff\Assesment\Namocorp\Mobile\Contacts.Android\obj\Debug\90\lp\43\jl\res\anim\enterfromright.xml
+set;C:\ACER 1 TB\Vukile's stuff\Assesment\Namocorp\Mobile\Contacts.Android\obj\Debug\90\lp\43\jl\res\anim\exittoleft.xml
+set;C:\ACER 1 TB\Vukile's stuff\Assesment\Namocorp\Mobile\Contacts.Android\obj\Debug\90\lp\43\jl\res\anim\exittoright.xml
+style;C:\ACER 1 TB\Vukile's stuff\Assesment\Namocorp\Mobile\Contacts.Android\obj\Debug\90\lp\43\jl\res\values\styles.xml
+style;obj\Debug\90\res\values\styles.xml
+translate;C:\ACER 1 TB\Vukile's stuff\Assesment\Namocorp\Mobile\Contacts.Android\obj\Debug\90\lp\43\jl\res\anim\enterfromleft.xml
+translate;C:\ACER 1 TB\Vukile's stuff\Assesment\Namocorp\Mobile\Contacts.Android\obj\Debug\90\lp\43\jl\res\anim\enterfromright.xml
+translate;C:\ACER 1 TB\Vukile's stuff\Assesment\Namocorp\Mobile\Contacts.Android\obj\Debug\90\lp\43\jl\res\anim\exittoleft.xml
+translate;C:\ACER 1 TB\Vukile's stuff\Assesment\Namocorp\Mobile\Contacts.Android\obj\Debug\90\lp\43\jl\res\anim\exittoright.xml
+xamarin.forms.platform.android.appcompat.FormsViewPager;C:\ACER 1 TB\Vukile's stuff\Assesment\Namocorp\Mobile\Contacts.Android\obj\Debug\90\lp\43\jl\res\layout\rootlayout.xml

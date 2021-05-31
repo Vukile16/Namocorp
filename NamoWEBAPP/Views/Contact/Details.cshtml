@@ -1,0 +1,71 @@
+﻿@model List<NamoWEBAPP.Models.Contact>
+
+@{
+    ViewData["Title"] = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+@for (int i = 0; i < Model.Count; i++)
+{
+    <div class="container" style="margin-top:120px;">
+        <h4 class="text-center">Details</h4>
+        <hr />
+
+        <dl class="row">
+
+            <dt class="col-sm-2">
+                @Html.DisplayNameFor(model => model[i].FirstName)
+            </dt>
+            <dd class="col-sm-10">
+                @Html.DisplayFor(model => model[i].FirstName)
+            </dd>
+            <dt class="col-sm-2">
+                @Html.DisplayNameFor(model => model[i].Surname)
+            </dt>
+            <dd class="col-sm-10">
+                @Html.DisplayFor(model => model[i].Surname)
+            </dd>
+            <dt class="col-sm-2">
+                @Html.DisplayNameFor(model => model[i].BirthDate)
+            </dt>
+            <dd class="col-sm-10">
+                @Html.DisplayFor(model => model[i].BirthDate)
+            </dd>
+
+            <dt class="col-sm-2">
+                @Html.DisplayNameFor(model => model[i].ContactingType)
+            </dt>
+            <dd class="col-sm-10">
+                @Html.DisplayFor(model => model[i].ContactingType)
+            </dd>
+
+            <dt class="col-sm-2">
+                @Html.DisplayNameFor(model => model[i].UpdatedDate)
+            </dt>
+            <dd class="col-sm-10">
+                @Html.DisplayFor(model => model[i].UpdatedDate)
+            </dd>
+
+            <dt class="col-sm-2">
+                @Html.DisplayNameFor(model => model[i].ContactDetail.Description)
+            </dt>
+            <dd class="col-sm-10">
+                @Html.DisplayFor(model => model[i].ContactDetail.Description)
+            </dd>
+
+            <dt class="col-sm-2">
+                Contact Type
+            </dt>
+            <dd class="col-sm-10">
+                @Html.DisplayFor(model => model[i].ContactDetail.ContactType.Type)
+            </dd>
+
+        </dl>
+        
+    </div>
+    <div>
+        @Html.ActionLink("Edit", "Edit", new { id = Model[i].ContactId }) |
+        <a asp-action="Index">Back to List</a>
+    </div>
+}
