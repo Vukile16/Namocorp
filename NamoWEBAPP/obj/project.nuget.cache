@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FFbmIgbx5091usvZgyCe3he44k1BDtmQhorJwksggfuwcZJmT+GHmqnWY+Z8kTZvDBQmdbEusuUX0cpEWM0PvA==",
+  "dgSpecHash": "r3J9A54e6GS0b98M57RlE3Bl5g7Vh1egbyCkDbg/DWdsZ2diiAmlbJRh78c932NqW1cYIPmC/e9tZK9R2M+/xg==",
   "success": true,
-  "projectFilePath": "C:\\ACER 1 TB\\Vukile's stuff\\Assesment\\Namocorp\\NamoWEBAPP\\NamoWEBAPP\\NamoWEBAPP.csproj",
+  "projectFilePath": "C:\\Users\\vukil\\Documents\\Namocorp\\NamoWEBAPP\\NamoWEBAPP.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\vukil\\.nuget\\packages\\humanizer.core\\2.2.0\\humanizer.core.2.2.0.nupkg.sha512",
     "C:\\Users\\vukil\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",

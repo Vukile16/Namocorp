@@ -6337,11 +6337,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\ACER 1 TB\\Vukile's stuff\\Assesment\\Namocorp\\NamoWEBAPP\\NamoWEBAPP\\NamoWEBAPP.csproj",
+      "projectUniqueName": "C:\\Users\\vukil\\Documents\\Namocorp\\NamoWEBAPP\\NamoWEBAPP.csproj",
       "projectName": "NamoWEBAPP",
-      "projectPath": "C:\\ACER 1 TB\\Vukile's stuff\\Assesment\\Namocorp\\NamoWEBAPP\\NamoWEBAPP\\NamoWEBAPP.csproj",
+      "projectPath": "C:\\Users\\vukil\\Documents\\Namocorp\\NamoWEBAPP\\NamoWEBAPP.csproj",
       "packagesPath": "C:\\Users\\vukil\\.nuget\\packages\\",
-      "outputPath": "C:\\ACER 1 TB\\Vukile's stuff\\Assesment\\Namocorp\\NamoWEBAPP\\NamoWEBAPP\\obj\\",
+      "outputPath": "C:\\Users\\vukil\\Documents\\Namocorp\\NamoWEBAPP\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

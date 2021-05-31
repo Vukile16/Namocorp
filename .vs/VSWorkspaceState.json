@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\NamoWEBAPP",
+    "\\NamoWEBAPP\\Views",
+    "\\NamoWEBAPP\\Views\\Shared"
   ],
-  "SelectedNode": "\\Contacts.sln",
+  "SelectedNode": "\\NamoWEBAPP\\Views\\Shared\\_Layout.cshtml",
   "PreviewInSolutionExplorer": false
 }
